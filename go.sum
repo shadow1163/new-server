@@ -1,0 +1,4 @@
+github.com/gorilla/mux v1.7.4 h1:VuZ8uybHlWmqV03+zRzdwKL4tUnIp1MAQtp1mIFE1bc=
+github.com/gorilla/mux v1.7.4/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/shadow1163/logger v1.0.6 h1:MUrJyocZShhzw7UfkrNw/lQSXE2C2te3zNmflTmwCjc=
+github.com/shadow1163/logger v1.0.6/go.mod h1:X3uSt01SPhy9XqwGib7KfDVwkoSHr1+VKbqlBR8YvCA=
